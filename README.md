@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gathy97.
+- 👀 I’m really interested in Blockchain and DLT technology.
+- 🌱 I’m currently learning Javascript, Python and Solidity for Blockchain's development.
+- 💞️ I’m looking to collaborate on project that have blockchain-based application development as their central unit.
+- 📫 How to reach me : gabriele.schiavoni1@gmail.com
